@@ -26,10 +26,9 @@
 ## 🎨 Design & Creative Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,canva,Xd" />
 </p>
 
-- Adobe Premiere Pro  
 - Canva  
 - Adobe XD  
 - Fusion 360  
