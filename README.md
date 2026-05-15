@@ -26,7 +26,7 @@
 ## 🎨 Design & Creative Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr" />
 </p>
 
 - Adobe Premiere Pro  
